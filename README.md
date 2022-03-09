@@ -1,1 +1,1 @@
-# snapity
+# snapity project
